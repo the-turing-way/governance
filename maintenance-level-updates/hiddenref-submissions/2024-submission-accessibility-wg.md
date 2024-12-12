@@ -1,8 +1,10 @@
-## Submission made to HiddenRef competition 2024
+# Submission made to HiddenRef competition 2024
 
 **This submission was successful with Accessibility WG recognised under the "Context" Category.**
 
 Website: https://hidden-ref.org/hidden-ref-competition/
+
+## Summary
 
 **In up to 300 words, please describe your submission to this category and the reasons how it (or the person you have nominated) have contributed to the success of research.**
 
