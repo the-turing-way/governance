@@ -5,7 +5,7 @@
 *  Gabin
 *  Esther Plomp
 
-## Apologies:
+## Apologies
 
 * Anne - on annual leave
 
