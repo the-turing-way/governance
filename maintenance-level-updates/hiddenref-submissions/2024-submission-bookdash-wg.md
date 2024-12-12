@@ -1,12 +1,12 @@
-## Submission made to HiddenRef competition 2024
+# Submission made to HiddenRef competition 2024
 
-**This submission was shortlisted.**
+**This submission was not shortlisted.**
 
 Website: https://hidden-ref.org/hidden-ref-competition/
 
 ## Summary
 
-**In up to 300 words, please describe your submission to this category and the reasons how it (or the person you have nominated) have contributed to the success of research.**
+**In up to 300 words, please describe your submission to this category and the reasons how it (or the person you have nominated) have contributed to the success of the research.**
 
 
 This nomination is for the Book Dash Working Group, composed of Arielle Bennett, Esther Plomp, Emma Karoune, Carlos Martinez-Ortiz, Susana Roman-Garcia, and Alexandra Araujo Alvarez. The working group, comprised of volunteers that organise and facilitate the project’s bi-annual Book Dash event has been essential in fostering collaboration, community-building, and the continued creation of high-quality, open access resources for widespread use by researchers and scientists.
