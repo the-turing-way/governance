@@ -10,7 +10,7 @@
 * Ale
 * Andre
 
-## Apologies:
+## Apologies
 
 * Kirstie is on annual leave
 * Anne is on annual leave
