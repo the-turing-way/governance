@@ -1,6 +1,6 @@
 # Collaboration Cafe Notes - 15 January
 
-## Check in - 15 January
+## Check-in
 
 Name + Pronouns + Name one habit you would like to build in 2025? + an emoji (if you'd like!: [https://emojipedia.org/](https://emojipedia.org/), see also: [https://openmoji.org/)](https://openmoji.org/))
 
