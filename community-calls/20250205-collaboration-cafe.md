@@ -7,17 +7,17 @@ Name + Location you are calling from + Pronouns + Name a superpower you would li
 *(Remember that this is a public document. These notes will be archived on The Turing Way repository, and will include your name and answer. You can use a pseudonym if you'd prefer. Use the 🤫 emoji if you would not like to be included in our public archive. You can always request to remove your information at asteele@turing.ac.uk.)*
 
 * Anne + she/her + Definitely the ability to speak the world's languages!
-*  Kathe Todd-Brown + Gainseville, Florida + she/they + stretching time to do more in a day!
+* Kathe Todd-Brown + Gainseville, Florida + she/they + stretching time to do more in a day!
 * Malvika + she/her + 
-*  Cari Hyde-Vaamonde + she/her + London  + non-procrastination!
+* Cari Hyde-Vaamonde + she/her + London  + non-procrastination!
  * haha - omg - best super power ever!! These people walk among us.... I am not one of them!
 * Kirstie Whitaker + Berkeley, California + she/her + teleportation!
-*  Beth Duckles + Portland, OR + able to travel all over the world at the blink of an eye
+* Beth Duckles + Portland, OR + able to travel all over the world at the blink of an eye
 * Emma Karoune + Portsmouth, UK + also speaking all the world languages
 * Liz she/her, NY being a dissident
 * Carlos + Utrecht, Netherlands + he/him + teleportation would be amazing!
 * Eric Tokuda + Sao Paulo, Brazil + go back to the 60s and enjoy some disco parties
-*  Bianca + Romania, now in UK LLM student + mind reading 
+* Bianca + Romania, now in UK LLM student + mind reading 
 * Jim Madge + Cornwall, UK + he/him +  + 🧶
 * Alexandra + London + she/her + teletransportation (be able to hug the people I love anytime I need
 * Andre Piza + London + he/him + telling my younger self a few pieces of advice
@@ -58,7 +58,7 @@ If you like one of the topics that are already suggested, please add your name n
 * [https://github.com/the-turing-way/the-turing-way/issues/3950](https://github.com/the-turing-way/the-turing-way/issues/3950)
 * [https://github.com/the-turing-way/the-turing-way/pull/3965](https://github.com/the-turing-way/the-turing-way/pull/3965) 
 * [https://github.com/the-turing-way/the-turing-way/issues/3957](https://github.com/the-turing-way/the-turing-way/issues/3957)
-*  [https://www.cscce.org/resources/github-for-community-management/](https://www.cscce.org/resources/github-for-community-management/) 
+* [https://www.cscce.org/resources/github-for-community-management/](https://www.cscce.org/resources/github-for-community-management/) 
 * [https://github.com/ktoddbrown/SoilDRaH/wiki](https://github.com/ktoddbrown/SoilDRaH/wiki)
 * Recordings are here: [https://www.youtube.com/watch?v=J3OEu8vc64U](https://www.youtube.com/watch?v=J3OEu8vc64U) (the first video is with rOpenSci could be a good reference)!
 * [https://docs.google.com/document/d/1Wnq-LWkG3b6fnLg9EXKGrXasbc3lH0zud0Qe0QUy0Js/edit?usp=sharing](https://docs.google.com/document/d/1Wnq-LWkG3b6fnLg9EXKGrXasbc3lH0zud0Qe0QUy0Js/edit?usp=sharing)
