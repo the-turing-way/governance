@@ -1,1 +1,5 @@
-Here we will add updates and resources from the maintenance level groups (working groups and projects).
+# Resources Related to Maintenance Level Groups
+
+Coordinate with the maintenance group and add resources here.
+
+The Community Forum slide deck and videos also contain periodic updates shared by the Working Groups.
