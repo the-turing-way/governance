@@ -18,4 +18,4 @@ You can find meeting notes archived in the following folders:
 - [Maintenance Level Resources](maintenance-level-resources)
 
 **Constitution Level Resources**: All Working Group and project-related reports, resources and links to documentation
-- [Steering Committee Resources](steering-committee-resources)
+- [Constitution Level Resources](constitution-level-resources)
