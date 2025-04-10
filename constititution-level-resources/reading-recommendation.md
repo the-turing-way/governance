@@ -27,8 +27,16 @@
 
 *More documentation in various Pull Requests and issues that will be collectively reviewed by the Steering Committee.*
 
-## General Reading Recommendation
+## Optional Reading Recommendation
+
+### Definition of Steering Committee
 
 * Steering committee: roles, structure & best practices for success.  (2025, March), iDeals Board. https://idealsboard.com/steering-committee
-* What Is a Steering Committee and What Is Its Role? (2020, July), Plutora, https://www.plutora.com/blog/steering-committee
-* What is a Steering Committee? Overview, Roles, and Responsibilities. (2024, October). https://www.onboardmeetings.com/blog/steering-committee
+  * What Is a Steering Committee and What Is Its Role? (2020, July), Plutora, https://www.plutora.com/blog/steering-committee
+  * What is a Steering Committee? Overview, Roles, and Responsibilities. (2024, October). https://www.onboardmeetings.com/blog/steering-committee
+ 
+### Committee Documentation from Other Open Communities
+
+- OLS Advisory Committee Documentation: https://github.com/open-life-science/ols-governance/tree/main/docs
+- Carpentries Handbook: https://docs.carpentries.org/handbooks/board_of_directors.html
+- Society of RSE: https://society-rse.org/about/governance/
