@@ -16,7 +16,7 @@ We encourage all members of the Steering Committee to nominate themselves and ot
 
 Please complete the sections below and provide additional information for your participation in the committee. 
 
-***The deadline for submitting nominations is 2 May 2025*.**
+***The deadline for submitting nominations is 8 June 2025*.**
 
 For any questions, please reach out to the Project Delivery Team members by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk). 
 
@@ -26,17 +26,19 @@ For any questions, please reach out to the Project Delivery Team members by emai
 
 1. Full Name
 
-2. Nominate Yourself: Please select the role you would like to nominate yourself for. In the option ‘Other’, you can also describe any additional role that you would be interested in assuming as part of the Steering Committee. (Checkbox)
+2. Nominate Yourself: Please select the role you would like to nominate yourself for.
+
+In the 'Other' option, feel free to describe any additional roles you'd be interested in taking on within the Steering Committee. While these won't be subject to election, they'll help shape your involvement if you're not assuming one of the roles currently open for nomination.
+
+_(Checkbox)_
     * Chair
     * Chair-Elect
     * Secretary
     * Secretary-Elect
     * Other
 
-3. Please provide a sentence describing why you believe you would be a good fit for the role you have selected in the previous question. (Open Textbox)
-
 ## Section 2 
 
-4. **Nominate Others:** For the roles you are not nominating yourself, would you like to nominate others? Please provide a sentence describing why you believe these individuals would be a good fit for those roles. Consider their skills, experience, contributions to *The Turing Way*, and any other relevant factors. You can add as many nominations as you would like. The Project Delivery Team will reach out to the nominated individual to confirm their preference.
+3. **Nominate Others:** For the roles you are not nominating yourself, would you like to nominate others? Please provide 1-2 sentence describing why you believe these individuals would be a good fit for those roles. Consider their skills, experience, contributions to _The Turing Way_, and any other relevant factors. You can add as many nominations as you would like. The Project Delivery Team will reach out to the nominated individual to confirm their preference.
 
-5. Is there anything else you’d like to share with the Project Delivery Team to make onboarding and participation in this committee easier for you?
+4. Is there anything else you’d like to share with the Project Delivery Team to make onboarding and participation in this committee easier for you?
