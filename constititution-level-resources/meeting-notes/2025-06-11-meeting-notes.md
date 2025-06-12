@@ -34,7 +34,7 @@
 * Nominations
 * Chair: Arielle, Kirstie, Jim
     * Malvika (excused herself)
-* Emma Karoune (excused herself)
+    * Emma Karoune (excused herself)
 * Secretary: Jim Madge, Arielle
 * Chair-elect: Batool Almarzouq
 * Secretary-elect: None!
@@ -44,15 +44,15 @@
 * If one person sweeps the board, they should be offered a choice
 * Everyone on the Steering Committee is expected to fill in the voting form; there will be an option to abstain, and an option to "re-open nominations (RON)" 
 * Endorsement by the majority of the *entire* committee, not just those who vote
-* Statements from candidates - will be added to the form - 150 words (including those running uncontested) 
+* Statements from candidates - will be added to the form - 100-150 words (including those running uncontested) 
 
 #### Community Forum: 1 hour Fireside Chat
 
 * The steering committee will be introduced to the community on 19 June at the Community Forum
 * We will host the Fireside Chat with questions:
 1. ***Please prepare a 1-minute intro about yourself. You should consider the following prompts in thinking about your intro.***
-  1. Your positionality as an individual with an interest in The Turing Way's governance while holding responsibility towards a specific group (Working Group/project)
-  1. What is one thing you'd consider your ideal for shaping the governance in The Turing Way?
+    1.1 Your positionality as an individual with an interest in The Turing Way's governance while holding responsibility towards a specific group (Working Group/project)
+    1.2 What is one thing you'd consider your ideal for shaping the governance in The Turing Way?
 1. **What are we trying to achieve as a steering committee over the next months?**
 1. **Where do you hope we will be in the next five years as a result of the governance work we are doing now?**
 1. **Reflecting on your own experience, what would you say is the route to becoming involved in the decision-making in The Turing Way? (highlight the structures you are putting together to empower community members)**
@@ -75,18 +75,18 @@
 * EK: In  August, not many people will be around
 * KW: plan August differently - but keep it going.
 * Format:
-* Documentation review and approval
-* WG deep dive
-* Beyond documentation review, we can revisit the format!
+    * Documentation review and approval
+    * WG deep dive
+* After documentation review, we can revisit the format!
 
 #### WG deep dive schedule rota
 
-_WGs: Infrastructure, Community Management, Accessibility, Translation & Localisation, Book Dash_
+_WGs: Infrastructure, Community Management, Accessibility, Translation & Localisation, Book Dash, fundraising_
 
 * 26 June: Infrastructure
 * 9 July: Community Management
 * 23 July: Bookdash
-* 13 August: Infrastructure
+* 13 August: 
 * 27 August:
 * 10 September:
 * 24 September: Delivery Groups: DSWB, Practitioners Hub (this may not need a deep dive), JupyterHub 
@@ -99,7 +99,7 @@ _WGs: Infrastructure, Community Management, Accessibility, Translation & Localis
 * 13 August: Guiding principles
 * 27 August: Guiding principles
 * 10 September: review backlog
-* 24 September: review backlog
+* 24 September: project deep dive
 
 ### Things to bring back in a future meeting
 
