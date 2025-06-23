@@ -19,7 +19,7 @@ JupyterHub-Turing Way EDI Project | Delivery Group | Kirstie Whitaker | kirstie.
 Translation and Localisation | Working Group | Batool Almarzouq | batool664@gmail.com
 _The Turing Way_ Practitioners Hub | Delivery Group | Arielle Bennett | abennett@turing.ac.uk
 
-### Steering Committee Leadership 2025-2026
+### Steering Committee Leadership 2025-2026 (as of mid-June 2025)
 
 - Chair: Kirstie Whitaker
 - Secretary: Arielle Bennett
