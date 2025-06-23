@@ -7,7 +7,7 @@ All resources related to the Constitution Level, such as those associated with t
 We will use the [GitHub Project Board 10](https://github.com/orgs/the-turing-way/projects/10) to centralise, coordinate and manage all constitution-level matters.
 
 The Project Delivery Team will be supporting the formalisation and operationalisation of the Steering Committee between April to June 2025.
-For any information, please contact them by emailing [turingway@turing.ac.uk].
+For any information, please contact them by emailing [theturingway@gmail.com].
 
 ## Steering Committee Members
 
