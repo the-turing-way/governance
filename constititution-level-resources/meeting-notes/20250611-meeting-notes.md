@@ -83,7 +83,7 @@
 
 _WGs: Infrastructure, Community Management, Accessibility, Translation & Localisation, Book Dash, fundraising_
 
-* 26 June: Infrastructure
+* ~~26~~ 25 June: Infrastructure
 * 9 July: Community Management
 * 23 July: Bookdash
 * 13 August: 
@@ -93,7 +93,7 @@ _WGs: Infrastructure, Community Management, Accessibility, Translation & Localis
 
 #### Documentation review
 
-* 26 June: Voting process, WG documentation
+* ~~26~~ 25 June: Voting process, WG documentation
 * 9 July: WG documentation
 * 23 July: Constitution Level documentation
 * 13 August: Guiding principles
@@ -103,7 +103,7 @@ _WGs: Infrastructure, Community Management, Accessibility, Translation & Localis
 
 ### Things to bring back in a future meeting
 
-* Observing roles in steering committee
+* Observing roles in the steering committee
 * Community Forum finalisation
 
 ### Actions
