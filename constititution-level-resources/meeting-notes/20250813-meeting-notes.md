@@ -72,6 +72,7 @@
     - Risk of buying influence?
     - Current DG chairs: Kirstie, Malvika, Arielle
     - As these people are paid to contribute to The Turing Way, they may find it easier to find time to contribute to Steering Committee business
+    - _Note, Malvika is not currently paid to contribute to The Turing Way via Data Science Without Borders_
     - Seats mean DGs have representation on the Steering Committee
   - Concerns
     - The objectives of a DG and community governance feel quite orthogonal. Perhaps we don't want DG chairs on the steering committee, perhaps they wouldn't have much input on governance decisions
