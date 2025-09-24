@@ -195,11 +195,3 @@ You can see the first example of this process in discussion [#4316](https://gith
 > * 🚀 (rocket) or "reassign" - this decision should be made at a different level
 > 
 > Quorum for this vote is 5/8 Steering Committee members, or 4/8 if the Chair votes for the proposal.
-
-**Red Flags:** As a remedy in exceptional situations where active Steering Committee members believe that the issues addressed or submitted to vote do not or may not comply with _The Turing Way_’s goals or values, they can activate this mechanism. To do so, they must contact the chair, or if they feel comfortable, full Steering Committee via Slack or Email within 5 working days. The issue must then be discussed again asynchronously, in a scheduled meeting, or in an extraordinary meeting.
-
-👉 We don't have a red flag policy in place...
-
-
-
-**Transparency Report:** The Steering Committee will regularly develop and publish a transparency report to publicly record key discussions, organisational decisions, and recommendations made for executive leadership and/or community review. This report will be shared via a public repository and the newsletter. Subsequent reports may include follow-ups on previously reported outcomes, such as how recommendations were integrated into the organisation's work.
