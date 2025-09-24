@@ -1,21 +1,23 @@
-## 11-06-2025
+# 11-06-2025
 
-### Check in
+## Check in 
 
-* Attending:
-  * Emma
-  * Liz
-  * Arielle
-  * Kirstie
-  * Jim
-  * Malvika
-  * Lelle
+### Attending
 
-* Apologies:
-   * Batool
-   * Anne
+* Emma
+* Liz
+* Arielle
+* Kirstie
+* Jim
+* Malvika
+* Lelle
 
-## Agenda:
+### Apologies
+
+* Batool
+* Anne
+
+## Agenda
 
 *Please note that most discussion can continue via GitHub issues after the meeting is over.*
 *You can create a new issue and tag it under the Project board 10:[ https://github.com/orgs/the-turing-way/projects/10](https://github.com/orgs/the-turing-way/projects/10)*
@@ -28,7 +30,7 @@
 1. Schedule for the rest of the year
 1. WG update - more candid
 
-### Notes
+## Notes
 
 * Yanina Bellini Saibene is happy to support the voting process - we are excited!
 * Nominations
@@ -46,7 +48,7 @@
 * Endorsement by the majority of the *entire* committee, not just those who vote
 * Statements from candidates - will be added to the form - 100-150 words (including those running uncontested) 
 
-#### Community Forum: 1 hour Fireside Chat
+### Community Forum: 1 hour Fireside Chat
 
 * The steering committee will be introduced to the community on 19 June at the Community Forum
 * We will host the Fireside Chat with questions:
@@ -79,7 +81,7 @@
     * WG deep dive
 * After documentation review, we can revisit the format!
 
-#### WG deep dive schedule rota
+### WG deep dive schedule rota
 
 _WGs: Infrastructure, Community Management, Accessibility, Translation & Localisation, Book Dash, fundraising_
 
@@ -91,7 +93,7 @@ _WGs: Infrastructure, Community Management, Accessibility, Translation & Localis
 * 10 September:
 * 24 September: Delivery Groups: DSWB, Practitioners Hub (this may not need a deep dive), JupyterHub 
 
-#### Documentation review
+### Documentation review
 
 * ~~26~~ 25 June: Voting process, WG documentation
 * 9 July: WG documentation

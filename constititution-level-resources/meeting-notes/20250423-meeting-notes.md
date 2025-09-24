@@ -4,17 +4,19 @@ GitHub issue with agenda: [https://github.com/orgs/the-turing-way/projects/10/vi
 
 ## Check in
 
-* Attending:
-   * Arielle
-   * Kirstie
-   * Emma
-   * Léllé
-   * Jim
+### Attending
 
-* Apologies:
-   * Malvika - AL
-   * Batool
-   * Anne - AL
+* Arielle
+* Kirstie
+* Emma
+* Léllé
+* Jim
+
+### Apologies
+
+* Malvika - AL
+* Batool
+* Anne - AL
 
 ## Agenda
 
@@ -25,7 +27,7 @@ GitHub issue with agenda: [https://github.com/orgs/the-turing-way/projects/10/vi
 * Voting process
 * AOB
 
-### Notes 23-04-2025
+## Notes 23-04-2025
 
 * Steering Committee roles
   * EK - treasurer should be in to track different pots of money (possibly different funding bodies)
@@ -44,7 +46,7 @@ GitHub issue with agenda: [https://github.com/orgs/the-turing-way/projects/10/vi
   * JM: I really like this idea. Giving more control/power to the mid level which more people can get involved with 🎉
   * KW: committee needs a chair and secretary
 
-### ACTIONS:
+## ACTIONS
 
 * ACTION: AB to open an issue on funding acquisitions working group
 * ACTION: identify a returning officer for the election 

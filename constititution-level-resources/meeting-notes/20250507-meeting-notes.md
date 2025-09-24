@@ -1,19 +1,21 @@
 # 07-05-2025 
 
-### Check in
+## Check in
 
-* Attending:
-   * Arielle
-   * Malvika (joining from India)
-   * Jim
-   * Liz
-   * Kirstie
-   * Batool 
+### Attending
 
-* Apologies:
-   * Emma (at NIHR conference)
-   * Anne (Sick)
-   * Léllé (overlapping commitment)
+* Arielle
+* Malvika (joining from India)
+* Jim
+* Liz
+* Kirstie
+* Batool 
+
+### Apologies
+
+* Emma (at NIHR conference)
+* Anne (Sick)
+* Léllé (overlapping commitment)
 
 **Notes**
 * Please note that most discussion can continue via GitHub issues after the meeting is over.
@@ -21,13 +23,13 @@
 * Agenda for this month's meeting: [https://github.com/the-turing-way/governance/issues/17](https://github.com/the-turing-way/governance/issues/17)
 * The last 30 mins of meeting will happen during the first Pomodoro session of the Collaboration café
 
-## Agenda:
+## Agenda
 
 * Nomination form & voting process for committee positions: [https://github.com/the-turing-way/governance/pull/23](https://github.com/the-turing-way/governance/pull/23)
 * Governance documentation for systematic review: [https://github.com/the-turing-way/governance/issues/21](https://github.com/the-turing-way/governance/issues/21)
 * Preferred platforms for documentation review: [https://github.com/the-turing-way/governance/issues/19](https://github.com/the-turing-way/governance/issues/19)
 
-### Notes:
+## Notes
 
 * AB: We need to organise ourselves. We discussed if we needed a treasurer - the response was not really - we should try to set up a funding WG, so that people can join as needed.
   * We will go ahead with chair + chair elect, secretary and secretary elect
