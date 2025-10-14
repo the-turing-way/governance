@@ -54,7 +54,7 @@ The only pathway for decision making by the Steering Committee is through asynch
 
 The Steering Committee will be given a recommended 7 days to vote.
 
-This timeframe can be extended or shortened by the Steering Committee Chair with publicly documented justification for the change to the recommeneded length of time.
+This timeframe can be extended or shortened by the Steering Committee Chair with publicly documented justification for the change to the recommended length of time.
 
 ### Regular process review
 
@@ -76,7 +76,7 @@ The Steering Committee commit to making as few decisions as possible.
 
 #### Implementation
 
-If a decision can be made at the maintenance level (by a working group or delivery group) or at the community level (by an individual contributor) then the discussion post asking for a decision can be re-lablled and delegated to the appropriate level.
+If a decision can be made at the maintenance level (by a working group or delivery group) or at the community level (by an individual contributor) then the discussion post asking for a decision can be re-labelled and delegated to the appropriate level.
 
 #### Timeframe
 
