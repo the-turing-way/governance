@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-This issue is to help plan the community forums which are held approximately every other month as part of The Turing Way. 
+This issue is to help plan the [community forums](https://book.the-turing-way.org/community-handbook/community-calls/community-calls-forums/) which are held approximately every other month as part of The Turing Way. 
 
 **This issue is considered done when the pull request updating the notes and a link to the community forum recording is added to the `governance` repository and merged. Please link the PR to this issue.**
 
