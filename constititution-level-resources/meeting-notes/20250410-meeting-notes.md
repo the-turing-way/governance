@@ -1,15 +1,19 @@
 # 10-04-2025
 
+## Check in
+
 * Chaired by:
     * Malvika / London, UK
-* Attended by
-   * Batool / Al-awjam, Saudi Arabia 
-   * Jim / Exeter, UK
-   * Arielle / Boston, USA 🌿
-   * Emma / Portsmouth, UK
-   * Anne / London, UK
-   * Kirstie / Berkeley, CA, USA
-   * Lelle / London, UK
+
+### Attending
+
+* Batool / Al-awjam, Saudi Arabia 
+* Jim / Exeter, UK
+* Arielle / Boston, USA 🌿
+* Emma / Portsmouth, UK
+* Anne / London, UK
+* Kirstie / Berkeley, CA, USA
+* Lelle / London, UK
 
 ## Introducing Steering Committee Members
 
@@ -45,7 +49,7 @@
   * Google Drive folder
    * What else is needed to support participation?
 
-### Notes
+## Notes
 
 * ~~Email list suggestion: Google mailing list?~~
   * KW - Berkeley can "sponsor" a mailing list if that's useful - we can chat offline

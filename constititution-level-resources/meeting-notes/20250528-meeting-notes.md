@@ -1,21 +1,23 @@
-### 28-05-2025 
+# 28-05-2025 
 
-### Check in
+## Check in
 
-* Attending:
-   * Malvika
-   * Jim
-   * Arielle - dropping off in hour
-   * Léllé - dropping off in hour
-   * Liz
-   * Kirstie
-   * Batool 
-   * Anne
+### Attending
 
-* Apologies:
-   * Emma
+* Malvika
+* Jim
+* Arielle - dropping off in hour
+* Léllé - dropping off in hour
+* Liz
+* Kirstie
+* Batool 
+* Anne
 
-## Agenda:
+### Apologies
+
+* Emma
+
+## Agenda
 
 * Agenda for May: [https://github.com/the-turing-way/governance/issues/24](https://github.com/the-turing-way/governance/issues/24)
    * Nomination form: [https://forms.gle/idEqbgtTH2CW9oSX9](https://forms.gle/idEqbgtTH2CW9oSX9)
@@ -28,7 +30,7 @@
    * Sync and Async approval process to be confirmed
    * Governance Documentation Review (Documentation to be systematically reviewed by the Steering Committee: Review plans TBD #21)
 
-### Notes:
+## Notes
 
 * Any notes that can't be recorded in public should be archived internally by current project management team
    * Repo for public notes and decisions established here: [https://github.com/the-turing-way/governance/tree/main/constititution-level-resources/meeting-notes](https://github.com/the-turing-way/governance/tree/main/constititution-level-resources/meeting-notes)

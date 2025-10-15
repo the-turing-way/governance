@@ -1,5 +1,4 @@
-
-# The Turing Way - Community Forums 2025 - 21 February
+# The Turing Way - Community Forum 2025 - 21 February
 
 ## 🗣️Welcome!
 
@@ -20,21 +19,19 @@
        * You can also reach out to our Code of Conduct reporting facilitators Anne Lee Steele (asteele@turing.ac.uk) and Léllé Demertzi (lelle@turing.ac.uk).
    * We have enabled the closed caption (live transcription), please click on 'cc' at the bottom of your Zoom screen
 
-
-## Agenda:
+## Agenda
 
 Chair:  Esther Plomp
 
-   * 15:00 - 15:15: Opening and Welcome by today's Chair (10 min) <-- 5 mins for people to arrive then 5 mins norm setting
-       * Slides: [https://docs.google.com/presentation/d/18Fto7O6ElbPOC8yZDZu9P77Q3kqCrn1a/edit#slide=id.p1](https://docs.google.com/presentation/d/18Fto7O6ElbPOC8yZDZu9P77Q3kqCrn1a/edit#slide=id.p1)
-   * 15:15 - 15:25: Breakout Discussion - Collective Brainstorming
-   * 15:25 - 15:35: Maintenance level governance: Working Group report out
-   * 15:35 - 15:45: Constitutional Level Steering Committee - Roadmap
-   * 15:45 - 15:50: 🍵 Break
-   * 15:50 - 16:15: Community Announcements
-   * 16:15 - 16:30: Open Q\&A, AOB and Closing!
-   * Closing (end of 90 mins)
-
+* 15:00 - 15:15: Opening and Welcome by today's Chair (10 min) <-- 5 mins for people to arrive then 5 mins norm setting
+      * Slides: [https://docs.google.com/presentation/d/18Fto7O6ElbPOC8yZDZu9P77Q3kqCrn1a/edit#slide=id.p1](https://docs.google.com/presentation/d/18Fto7O6ElbPOC8yZDZu9P77Q3kqCrn1a/edit#slide=id.p1)
+* 15:15 - 15:25: Breakout Discussion - Collective Brainstorming
+* 15:25 - 15:35: Maintenance level governance: Working Group report out
+* 15:35 - 15:45: Constitutional Level Steering Committee - Roadmap
+* 15:45 - 15:50: 🍵 Break
+* 15:50 - 16:15: Community Announcements
+* 16:15 - 16:30: Open Q\&A, AOB and Closing!
+* Closing (end of 90 mins)
 
 Please note that any and all discussions on these topics can be continued in the future Collaboration Café on
 
@@ -173,7 +170,7 @@ Please note that any and all discussions on these topics can be continued in the
        * Datas Science without Borders
    * Working groups: decision making for processes explicit for the community so the community members can identify how certain decisions are being made.
 
-#### Comments and questions 
+### Comments and questions 
 
 * Questions from the chat:
    * What are the obligations of DG to TTW and how are they ‘certified’ as TTW?

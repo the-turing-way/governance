@@ -4,9 +4,9 @@
 
 ### Attending
 
-*  Kirstie
-*  Jim
-*  Liz
+* Kirstie
+* Jim
+* Liz
 * Arielle
 * Emma
 

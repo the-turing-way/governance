@@ -1,5 +1,4 @@
-
-# The Turing Way - Community Forums 2025 - 17 April
+# The Turing Way - Community Forum 2025 - 17 April
 
 GitHub link where notes from previous calls are archived: [https://github.com/the-turing-way/governance/blob/main/community-forum/README.md](https://github.com/the-turing-way/governance/blob/main/community-forum/README.md)
 

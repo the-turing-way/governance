@@ -1,6 +1,6 @@
 # 25-06-2025
 
-## Check In
+## Check in 
 
 ### Attending
 
