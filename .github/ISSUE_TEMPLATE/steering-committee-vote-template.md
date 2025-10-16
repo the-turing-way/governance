@@ -12,7 +12,7 @@ This is a voting issue for Steering Committee members.
 Steering Committee members - please either emoji react this comment or reply directly to this issue using the suggested text below to indicate your stance. 
 
 ## Topic
-*Use this section to provide a short overview of the topic you want the committee to vote on*
+<!-- Use this section to provide a short overview of the topic you want the committee to vote on -->
 
 ## Deadline 
 *Provide a deadline for votes to come in - ideally this is at least 7 days. If it needs to be shorter, please explain why (application deadlines, event approaching etc).*
