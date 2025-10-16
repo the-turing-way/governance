@@ -2,7 +2,7 @@
 name: Steering Committee Vote Template
 about: For opening an issue soliciting a Steering Committee vote on a topic
 title: 'Steering Committee Vote: [TOPIC] - [DEADLINE YYYY-MM-DD]'
-labels: ''
+labels: 'gov-sc-vote'
 assignees: 'the-turing-way/steering-committee'
 
 ---
