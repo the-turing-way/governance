@@ -25,7 +25,7 @@ Ideally, you should also spell out what will happen if the Steering Committee do
 -->
 
 ### Other actions
-*If there are other actions that would arise as a result of the vote but that have wider implications (new templates, procedures, sections of the book etc) please include them here.*
+<!-- If there are other actions that would arise as a result of the vote but that have wider implications (new templates, procedures, sections of the book etc) please include them here. -->
 
 ## Why is this a Steering Committee vote?
 *One of the key aims for the Steering Committee is to ensure the community and maintainers are as empowered as possible to make decisions about their work on the Turing Way. With this in mind, please add 1-2 sentences here to explain how this decision has reached the Steering Committee and what community engagement has happened prior to this (links to existing issues, PRs, or discussions are encouraged - no need to re-write!)*
