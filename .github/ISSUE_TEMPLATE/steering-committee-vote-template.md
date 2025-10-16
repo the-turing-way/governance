@@ -18,9 +18,11 @@ Steering Committee members - please either emoji react this comment or reply dir
 <!-- Provide a deadline for votes to come in - ideally this is at least 7 days. If it needs to be shorter, please explain why (application deadlines, event approaching etc). -->
 
 ### Proposal
-*Use this section to explain what the Steering Committee are voting on - please link to discussions, issues, or PRs to provide context where possible. This section should have concrete actions which will occur as a result of the vote.*
+<!--
+Use this section to explain what the Steering Committee are voting on - please link to discussions, issues, or PRs to provide context where possible. This section should have concrete actions which will occur as a result of the vote.
 
-*Ideally, you should also spell out what will happen if the Steering Committee does not vote in favour of the proposal.*
+Ideally, you should also spell out what will happen if the Steering Committee does not vote in favour of the proposal.
+-->
 
 ### Other actions
 *If there are other actions that would arise as a result of the vote but that have wider implications (new templates, procedures, sections of the book etc) please include them here.*
