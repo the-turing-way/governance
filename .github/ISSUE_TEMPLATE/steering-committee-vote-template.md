@@ -7,8 +7,6 @@ assignees: 'the-turing-way/steering-committee'
 
 ---
 
-# Vote Issue for Steering Committee members on [TOPIC] - [DEADLINE]
-@the-turing-way/steering-committee
 
 This is a voting issue for Steering Committee members. 
 Steering Committee members - please either emoji react this comment or reply directly to this issue using the suggested text below to indicate your stance. 
