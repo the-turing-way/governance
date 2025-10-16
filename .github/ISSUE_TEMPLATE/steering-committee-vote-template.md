@@ -15,7 +15,7 @@ Steering Committee members - please either emoji react this comment or reply dir
 <!-- Use this section to provide a short overview of the topic you want the committee to vote on -->
 
 ## Deadline 
-*Provide a deadline for votes to come in - ideally this is at least 7 days. If it needs to be shorter, please explain why (application deadlines, event approaching etc).*
+<!-- Provide a deadline for votes to come in - ideally this is at least 7 days. If it needs to be shorter, please explain why (application deadlines, event approaching etc). -->
 
 ### Proposal
 *Use this section to explain what the Steering Committee are voting on - please link to discussions, issues, or PRs to provide context where possible. This section should have concrete actions which will occur as a result of the vote.*
