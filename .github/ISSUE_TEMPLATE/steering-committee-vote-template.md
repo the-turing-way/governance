@@ -24,7 +24,7 @@ Use this section to explain what the Steering Committee are voting on - please l
 Ideally, you should also spell out what will happen if the Steering Committee does not vote in favour of the proposal.
 -->
 
-### Other actions
+## Other actions
 <!-- If there are other actions that would arise as a result of the vote but that have wider implications (new templates, procedures, sections of the book etc) please include them here. -->
 
 ## Why is this a Steering Committee vote?
