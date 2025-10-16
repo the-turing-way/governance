@@ -1,7 +1,7 @@
 ---
 name: "\U0001F4DA Community Forum Checklist"
 about: Checklist for planning each community forum 
-title: Community Forum: [DATE - DD-MM-YYYY] 
+title: "Community Forum: [DATE - YYYY-MM-DD]" 
 labels: 'community-forum'
 assignees: ''
 
