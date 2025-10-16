@@ -30,7 +30,7 @@ Ideally, you should also spell out what will happen if the Steering Committee do
 ## Why is this a Steering Committee vote?
 *One of the key aims for the Steering Committee is to ensure the community and maintainers are as empowered as possible to make decisions about their work on the Turing Way. With this in mind, please add 1-2 sentences here to explain how this decision has reached the Steering Committee and what community engagement has happened prior to this (links to existing issues, PRs, or discussions are encouraged - no need to re-write!)*
 
-### Voting guide
+## Voting guide
 👍🏻 (thumbs up) or "endorse" - support the proposal 
 👎🏻 (thumbs down) or "reject" - do not support the proposal 
 😕 (confused) or "more information please" - I need more information to make a decision (please elaborate!)
