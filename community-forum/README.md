@@ -12,6 +12,6 @@ In the table below, we have centralised all resources from our Community Forums.
 | 2025-02 | 20250221-community-forum.md | https://zenodo.org/records/15169897 | [Video link](https://www.youtube.com/watch?v=XRYOLF_stU4&list=PLBxcQEfGu3DkB1cLjSD5nEFvb_JkMPVqf&index=6&pp=iAQB) |
 | 2025-04 | 20250417-community-forum.md | https://zenodo.org/records/15238402 | [Video link]() - TBA |
 | 2025-06 | 20250619-community-forum.md | https://zenodo.org/records/15705994 | [Video link]() - TBA |
-| 2025-09 | 20250919-community-forum.md | TBA | [Video link]() - TBA |
-| 2025-10 | TBA | TBA | [Video link]() - TBA |
+| 2025-09 | 20250919-community-forum.md | https://zenodo.org/records/18244736 | [Video link]() - TBA |
+| 2025-10 | 20251210-community-forum.md | https://zenodo.org/records/18244808 | [Video link]() - TBA |
 | 2025-12 | TBA | TBA | [Video link]() - TBA |
