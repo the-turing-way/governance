@@ -13,7 +13,7 @@ Group name | Type | Representative | Status
 Book Dash | Working Group | Esther Plomp | 
 Community Management | Working Group | Emma Karoune (merged with Accessibility) | 
 Data Science Without Borders | Delivery Group | Precious Onyewuchi | 
-Infrastructure | Working Group | Jim Madge | jim@jmadge.com
+Infrastructure | Working Group | Jim Madge | 
 JupyterHub-Turing Way EDI Project | Delivery Group | Kirstie Whitaker | concluded
 Translation and Localisation | Working Group | Batool Almarzouq | 
 _The Turing Way_ Practitioners Hub | Delivery Group | Arielle Bennett | Concluded
