@@ -8,16 +8,15 @@ We use the [GitHub Project Board 10](https://github.com/orgs/the-turing-way/proj
 
 ## Steering Committee Members
 
-Group name | Type | Representative | Contact
+Group name | Type | Representative | Status
 -- | -- | -- | -- 
-Accessibility | Working Group | Liz Hare | Not Public
-Book Dash | Working Group | Emma Karoune | ekaroune@turing.ac.uk
-Community Management | Working Group | Anne Lee Steele and Léllé Demertzi (Transitioning roles from internal Turing to community) | asteele@turing.ac.uk and mdemertzi@turing.ac.uk
-Data Science Without Borders | Delivery Group | Malvika Sharan | malvika@we-are-ols.org
-Infrastructure | Working Group | Jim made | jim@jmadge.com
-JupyterHub-Turing Way EDI Project | Delivery Group | Kirstie Whitaker | kirstie.whitaker@berkeley.edu
-Translation and Localisation | Working Group | Batool Almarzouq | batool664@gmail.com
-_The Turing Way_ Practitioners Hub | Delivery Group | Arielle Bennett | abennett@turing.ac.uk
+Book Dash | Working Group | Esther Plomp | 
+Community Management | Working Group | Emma Karoune (merged with Accessibility) | 
+Data Science Without Borders | Delivery Group | Precious Onyewuchi | 
+Infrastructure | Working Group | Jim Madge | jim@jmadge.com
+JupyterHub-Turing Way EDI Project | Delivery Group | Kirstie Whitaker | concluded
+Translation and Localisation | Working Group | Batool Almarzouq | 
+_The Turing Way_ Practitioners Hub | Delivery Group | Arielle Bennett | Concluded
 
 ### Steering Committee Leadership 2025-2026 (as of mid-June 2025)
 
